@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fb243646-5c3c-4c3c-9c31-a74899cb4493" name="Changes" comment="Feature:&#10;- Forgot Password screen design">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_profile.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="fb243646-5c3c-4c3c-9c31-a74899cb4493" name="Changes" comment="Feature:&#10;- My Profile screen design" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -170,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664263186398</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feature:&#10;- My Profile screen design">
+      <created>1664274132946</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664274132946</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +193,7 @@
     <MESSAGE value="Update:&#10;- git ignore updated" />
     <MESSAGE value="Feature:&#10;- Registration screen design" />
     <MESSAGE value="Feature:&#10;- Forgot Password screen design" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature:&#10;- Forgot Password screen design" />
+    <MESSAGE value="Feature:&#10;- My Profile screen design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature:&#10;- My Profile screen design" />
   </component>
 </project>
